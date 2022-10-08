@@ -124,3 +124,5 @@ console.log(miNombre)
 const saludar = nombre => `Hola ${nombre}`
 
 const nombreMama = 'Sonia'
+
+const nombrePapa = 'Regulo'
