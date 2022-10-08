@@ -120,3 +120,6 @@ function vaciarCarrito() {
 
 const miNombre = 'Angel'
 console.log(miNombre)
+
+const saludar = nombre => `Hola ${nombre}`
+
